@@ -1,6 +1,8 @@
 # Blog-Website
 
-Technology used: 
+Blog website where you can write new entry of blogs, save them and read in a chronological order.
+
+**Technology used:**
 
 HTML
 
